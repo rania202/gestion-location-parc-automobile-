@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+
+<BorderPane prefHeight="486.0" prefWidth="915.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controleurs.ControlePrincipale">
+   <top>
+      <Label alignment="CENTER" prefHeight="66.0" prefWidth="662.0" text="Location Voiture" textFill="#0770eb" BorderPane.alignment="CENTER">
+         <font>
+            <Font name="Bodoni MT Bold" size="53.0" />
+         </font>
+      </Label>
+   </top>
+</BorderPane>
